@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer className="footer">
-      <p>🏛️ OLYMPOS</p>
+      <p>🏛 OLYMPOS</p>
 
       <span>Dos deuses às grandes lendas</span>
 
